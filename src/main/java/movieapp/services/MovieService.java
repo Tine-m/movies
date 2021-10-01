@@ -1,6 +1,6 @@
 package movieapp.services;
 
-import movieapp.dataFacade.MovieRepository;
+import movieapp.repositories.MovieRepository;
 import movieapp.models.Movie;
 
 import java.util.List;

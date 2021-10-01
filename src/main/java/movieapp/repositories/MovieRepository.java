@@ -1,4 +1,4 @@
-package movieapp.dataFacade;
+package movieapp.repositories;
 
 import movieapp.models.Movie;
 import java.sql.Connection;

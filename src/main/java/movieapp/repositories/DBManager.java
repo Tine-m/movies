@@ -1,4 +1,4 @@
-package movieapp.dataFacade;
+package movieapp.repositories;
 
 import java.io.FileInputStream;
 import java.io.IOException;
