@@ -1,2 +1,2 @@
 # Fetch movies from MYSQL Movies database (imdb) 
-Demonstration of MVC with database backend accessed via JDBC
+Demonstration of Spring MVC Framework with database backend accessed via JDBC
