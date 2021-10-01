@@ -14,7 +14,7 @@ public class MovieController {
     @GetMapping("/")
     @ResponseBody
     public String index() {
-        return "Welcome to Movie App";
+        return "Welcome to Movie App!";
     }
 
     @GetMapping("/getAll")
